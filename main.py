@@ -30,7 +30,6 @@ class DESIGN():
     blueone = f"{WHITE}[ {BLUE}1 {WHITE}]"
     bluetwo = f"{WHITE}[ {BLUE}2 {WHITE}]"
     xrblue = f"\n{blueplus} Follow Grabber {BLUE}/ {WHITE}Instagram{BLUE}: {WHITE}@xnce {BLUE}/ {WHITE}@ro1c"
-users = []
 accounts = []
 class FILES():
     def __init__(self):
